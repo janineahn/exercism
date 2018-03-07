@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PangramsTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2017-03-06T19:49:24" hostname="Janines-PC" time="0.015">
+  <properties/>
+  <testcase name="panagramInAlphabetOtherThanAsciiIsNotRecognizedAsPangram" classname="PangramsTest" time="0.0"/>
+  <testcase name="pangramWithMixedCaseAndPunctuationIsRecognizedAsPangram" classname="PangramsTest" time="0.0"/>
+  <testcase name="pangramWithNumbersIsRecognizedAsPangram" classname="PangramsTest" time="0.0"/>
+  <testcase name="phraseMissingCharacterXIsNotPangram" classname="PangramsTest" time="0.0"/>
+  <testcase name="pangramWithNonAsciiCharactersIsRecognizedAsPangram" classname="PangramsTest" time="0.0"/>
+  <testcase name="pangramWithUnderscoresIsRecognizedAsPangram" classname="PangramsTest" time="0.0"/>
+  <testcase name="upperAndLowerCaseVersionsOfTheSameCharacterShouldNotBeCountedSeparately" classname="PangramsTest" time="0.0"/>
+  <testcase name="pangramWithOnlyLowerCaseLettersIsRecognizedAsPangram" classname="PangramsTest" time="0.0"/>
+  <testcase name="phraseWithMissingLettersReplacedByNumbersIsNotPangram" classname="PangramsTest" time="0.0"/>
+  <testcase name="anotherPhraseMissingCharacterXIsNotPangram" classname="PangramsTest" time="0.0"/>
+  <testcase name="emptySentenceIsNotPangram" classname="PangramsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
